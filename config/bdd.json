@@ -1,12 +1,4 @@
 {
-  "default": {
-    "dbname": "mabdd",
-    "host": "localhost",
-    "port": 3306,
-    "username": "leUser",
-    "password": "lePassword",
-    "charset": "utf8"
-  },
   "prod": {
     "dbname": "mabdd",
     "host": "localhost",
@@ -23,5 +15,4 @@
     "password": "lePassword",
     "charset": "utf8"
   }
-  
 }
